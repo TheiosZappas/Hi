@@ -5,7 +5,7 @@
 void main()
 {	
 
-	printf("!!! %f * %f = %f \n", a, b, dot(a, b)); 
+	printf("Wat %f * %f = %f \n", a, b, dot(a, b)); 
 	
 
 }
